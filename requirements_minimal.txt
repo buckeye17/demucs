@@ -9,3 +9,8 @@ pyyaml
 torch>=1.8.1
 torchaudio>=0.8
 tqdm
+
+# above requirements are for demucs
+# below requirements are for video generation
+pandas
+plotly
