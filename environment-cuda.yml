@@ -1,4 +1,4 @@
-name: demucs
+name: demucs_cuda
 
 channels:
   - pytorch
